@@ -14,7 +14,7 @@ Vapaassa ohjelmistossa saat oikeudet: ajaa, kopioida, levittää, opiskella, muu
 
 Asensin tehtävässä h2 ohjelmat: Terminator, Cool retro term ja terminology. Nyt haluaisin selvittää kunkin ohjelman käyttölisenssit.
 
-###Terminator
+### Terminator
 
     Lisenssi:     GNU GPL v2 licence
     Lähde:        Ohjelmiston dokumentaation sivulta
@@ -22,7 +22,7 @@ Asensin tehtävässä h2 ohjelmat: Terminator, Cool retro term ja terminology. N
     
 Oikeusvaikutukset: Käyttäjä voi hyvin vapaasti muokata, levittää, käyttää ja tutkia ohjelmistoa, kunhan pitää huolen lisenssin jatko leviämisestä mahdollisiin muokattuihin versioihin. 
 
-###Cool retro term
+### Cool retro term
 
     Lisenssi:     GNU GPL v2/3 licence
     Lähde:        Ohjelmiston github repo
@@ -32,7 +32,7 @@ Oikeusvaikutukset: Käyttäjä voi hyvin vapaasti muokata, levittää, käyttä�
 
 Epäselvää: Valitettavasti github repossa on molemmat 2.0 ja 3.0 GNU GPL licenssit, joten on vaikeaa sanoa kumpi versio on juuri se mitä ohjelmisto noudattaa. 
 
-###Terminology
+### Terminology
 
     Lisenssi:     BSD 2-Clause License
     Lähde:        Ohjelmiston github repo
@@ -42,7 +42,7 @@ Oikeusvaikutukset: Mahdollistaa koodin käyttämisen, muokkaamisen, levittämise
 
 ## Säännölliset lausekkeet
 
-Säännöllisten lausekkeiden testausta varten luon uuden tekstitiedoston microlla komennolla `micro regex.txt` ja lisään tiedostoon testi dataa ks. kuva. 
+Säännöllisten lausekkeiden testausta varten luon uuden tekstitiedoston microlla komennolla `micro regex.txt` ja lisään tiedostoon testidataa.
 
 ![regex](https://user-images.githubusercontent.com/112503770/214770396-4d61852c-5b9f-43cd-8c15-02fe0667d0c8.png)
 
