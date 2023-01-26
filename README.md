@@ -38,7 +38,7 @@ Epäselvää: Valitettavasti github repossa on molemmat 2.0 ja 3.0 GNU GPL licen
     Lähde:        Ohjelmiston github repo
     Vapaa:        Kyllä
     
-Oikeusvaikutukset: Mahdollistaa koodin käyttämisen, muokkaamisen, levittämisen kunhan licenssi siirtyy muokattuihin/levitettyhin versioihin. 
+Oikeusvaikutukset: Mahdollistaa koodin käyttämisen, muokkaamisen, levittämisen kunhan lisenssi siirtyy muokattuihin/levitettyhin versioihin. 
 
 ## Säännölliset lausekkeet
 
